@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 94b54f58fddc60a49b97ce62ad3df974
+timeCreated: 1512942606
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ball: {instanceID: 0}
+  - cube: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - yellowDoor: {instanceID: 0}
+  - redDoor: {fileID: 1042000450649548, guid: 1a1a4ff68c59a6844921f0996283d808, type: 2}
+  - coinHolder: {instanceID: 0}
+  - buttonPlate: {instanceID: 0}
+  - hazardController: {instanceID: 0}
+  - coinText: {instanceID: 0}
+  - buttonText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - victoryText: {instanceID: 0}
+  - levelCountText: {instanceID: 0}
+  - levelCountText2: {instanceID: 0}
+  - lt: {instanceID: 0}
+  - victory: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
